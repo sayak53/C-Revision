@@ -31,7 +31,7 @@
 
 int main() {
     int cube[2][2][2] = {
-        {{1, 2}, {3, 4}},
+        {{1, 2}, {3, 4}}
         {{5, 6}, {7, 8}}
     }; // 3D array declaration and initialization
 
